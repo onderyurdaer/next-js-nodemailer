@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+    <h1 color="blue">JAVASCRIPT</h1>
+    
+</head>
+
+<body>
+    
+    <h2 color="blue"></h2>Java ve HTML</h2>
+<div id="div1">Javascript</div>
+    <script src="deneme.js"></script>
+</body>
+</html>
