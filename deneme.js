@@ -12,9 +12,13 @@ document.write(x);
 
 function isimyaz(isim){
     
-return isim;
+
     
-    document.write("bu yazı boş yazı");
+    console.log("bu yazı boş yazı");
+
+    return isim;
 }
 
 document.write(isimyaz("Mehmet"));
+
+window.alert('Hoşgeldiniz!');
